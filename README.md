@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Nathan, an engineer and researcher working at the edge of Machine Learning, Neurosciences and Language sciences, currently living in [Bordeaux, France](https://www.openstreetmap.org/#map=12/44.8364/-0.5703)!
+
 <!--
 **nTrouvain/ntrouvain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
